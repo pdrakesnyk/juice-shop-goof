@@ -83,6 +83,8 @@ snyk container monitor your/image:tag --tags="component=pkg:github/org/repo@bran
 
 ## Step 3: Tag Open Source and Code projects
 
+// Workshop Snyk Certification
+
 Review script at [insights/apply-tags.py](./insights/apply-tags.py).
 
 ```
